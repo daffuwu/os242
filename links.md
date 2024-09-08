@@ -13,5 +13,5 @@ This video is a tutorial of Linux basic terminal commands.
 This video is a tutorial of Vim basics.
 <br>
 <br>
-#### RERV: sun 09 sep 2024 10:30
+#### REV: Sun 09 Sep 2024 11:10
 <hr>
