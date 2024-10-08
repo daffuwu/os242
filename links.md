@@ -16,7 +16,9 @@ This video is a tutorial of Vim basics. This video helped me to learn basics of 
 This video is a tutorial of basic Bash Scripts. This video helped me to learn basic Bash Scripts.
 * [Operating System Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/){:target="_blank"} ---
 This link contains operating-system-related slides. The slides help me to strengthen my understanding of operating system.
+* [Memory Management in Linux](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html){:target="_blank"} --- 
+This website explains memory management in Linux.
 <br>
 <br>
-#### REV: Tue 01 Oct 2024 20:19
+#### REV: Tue 08 Oct 2024 15:36
 <hr>
