@@ -18,7 +18,9 @@ This video is a tutorial of basic Bash Scripts. This video helped me to learn ba
 This link contains operating-system-related slides. The slides help me to strengthen my understanding of operating system.
 * [Memory Management in Linux](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html){:target="_blank"} --- 
 This website explains memory management in Linux.
+* [Cbkadal's Docusaurus Tutorial](https://github.com/cbkadal/242saurus){:target="_blank"} ---
+This repository gives us tutorial to setup Docusaurus.
 <br>
 <br>
-#### REV: Tue 08 Oct 2024 15:36
+#### REV: Tue 29 Oct 2024 22:51
 <hr>
